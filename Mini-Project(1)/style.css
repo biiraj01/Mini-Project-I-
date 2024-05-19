@@ -1,0 +1,53 @@
+.mclaren-regular {
+    font-family: "McLaren", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.background
+{
+    width: 1350px;
+    height: 650px;
+    background: url('dirt.jpg');
+    background-size: cover;
+
+}
+.background1
+{
+    background-color: black;
+    color:white;
+    width: 1350px;
+}
+.background2
+{
+    display: flex;
+    justify-content: space-between; 
+}
+li
+{  
+    display: inline-block;
+    font-size: 24;
+    padding: 20px;
+
+}
+.logo
+{
+    background: url('logo.jpg');
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+}
+h1
+{
+    display: block;
+    font-size: 55px;
+    color: white;
+    row-gap: 0px;
+}
+p
+{
+    row-gap: 0px;
+    display: block;
+    font-size:24px;
+    color: white;
+}
